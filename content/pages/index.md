@@ -11,7 +11,7 @@ sections:
 
 
     actions:
-      - label: Let's talk
+      - label: Quieres hablar
         url: /contact
         style: button
   - section_id: latest-projects
