@@ -5,9 +5,11 @@ sections:
   - section_id: hero
     type: section_hero
     title: Hola este es el blog de luis miguel
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: |+
+      Podemos hablar de lo que quieras
+
+
+
     actions:
       - label: Let's talk
         url: /contact
